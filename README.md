@@ -46,3 +46,15 @@ In benchmarks involving complex documents (like the *Google 2024 Environmental R
    ```bash
    git clone github.com
    cd DocChat
+
+2. **Creating Virtual Environment & activating the Env**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+4. **Run the application:**
+   ```bash
+   python app.py
+
