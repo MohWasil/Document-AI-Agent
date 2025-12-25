@@ -1,5 +1,6 @@
 # **DocChat** 📝🤖  
 🚀 **AI-powered Multi-Agent RAG system for intelligent document querying with fact verification**  
+**Educational Use Disclaimer:** This repository is maintained as a personal learning project for the "DocChat: Multi-Agent RAG System" course provided by IBM Developer Skills Network. I am using this code to study the implementation of AI agents, hybrid retrieval, and self-correction mechanisms in RAG pipelines. All credit for the original architecture and base code goes to the authors at IBM and Hailey Thao Quach. This project is for non-commercial, educational purposes only.
 
 ![DocChat Cover Image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/zSuj0yrlvjcVkkbW4frkNA/docchat-landing-page.png)
 
